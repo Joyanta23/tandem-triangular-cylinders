@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use these report histories or calculations, please cite this dataset."
+type: dataset
+title: "Transient flow and heat transfer around tandem triangular cylinders in a channel"
+authors:
+  - family-names: "Roy Chowdhury"
+    given-names: "Joyanta"
+version: "1.0"
+date-released: 2026-10-25
+url: "https://github.com/Joyanta23/tandem-triangular-cylinders"
+repository-code: "https://github.com/Joyanta23/tandem-triangular-cylinders"
