@@ -2,8 +2,6 @@
 
 Report histories and analysis code for two heated triangular cylinders arranged in tandem in a channel.
 
-**Data upload in progress.** Case folders are being added in separate commits.
-
 ## Study
 
 The simulations use ANSYS Fluent 2023 R1 for two-dimensional transient laminar flow with heat transfer. The channel is 150 mm long and 20 mm high. Both cylinders have a transverse width of 5 mm and a fixed wall temperature of 302 K. Air enters at 300 K with a parabolic velocity profile.
